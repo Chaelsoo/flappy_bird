@@ -1,3 +1,5 @@
-# flappy_bird
-# flappy_bird
-# flappy_bird
+
+
+# have fun
+
+a try at pygame
